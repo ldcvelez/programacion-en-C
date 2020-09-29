@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1594254339 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdalistadoble\listadoble.c
+	"listaDoble.h"
+
+1594252109 c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdalistadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1594252559 c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdalistadoble\funciones.h
+
+1594395498 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdalistadoble\main.c
+	"listaDoble.h"
+	<math.h>
+

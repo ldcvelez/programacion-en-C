@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1573243769 source:c:\users\maruu\documents\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"implementacion.h"
+
+1573243706 source:c:\users\maruu\documents\arbol\primitivas.c
+	"primitivas.h"
+
+1573243707 c:\users\maruu\documents\arbol\primitivas.h
+	<stdio.h>
+	<stdlib.h>
+
+1573243199 source:c:\users\maruu\documents\arbol\implementacion.c
+	"implementacion.h"
+
+1573239285 c:\users\maruu\documents\arbol\implementacion.h
+	<stdio.h>
+	<stdlib.h>
+	"primitivas.h"
+
+1573243199 source:c:\users\lab3\desktop\arbol\arbol\implementacion.c
+	"implementacion.h"
+
+1573239285 c:\users\lab3\desktop\arbol\arbol\implementacion.h
+	<stdio.h>
+	<stdlib.h>
+	"primitivas.h"
+
+1573243707 c:\users\lab3\desktop\arbol\arbol\primitivas.h
+	<stdio.h>
+	<stdlib.h>
+
+1573243769 source:c:\users\lab3\desktop\arbol\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"implementacion.h"
+
+1573245851 source:c:\users\lab3\desktop\arbol\arbol\primitivas.c
+	"primitivas.h"
+

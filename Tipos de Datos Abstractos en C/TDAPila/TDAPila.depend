@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1585598030 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdapila\main.c
+	"Pila.h"
+
+1585597885 c:\users\leone\onedrive\escritorio\misprimitivas2020\tdapila\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585598030 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdapila\pila.c
+	"Pila.h"
+
+1585598039 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapila\main.c
+	"Pila.h"
+
+1593643000 c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapila\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585598030 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapila\pila.c
+	"Pila.h"
+

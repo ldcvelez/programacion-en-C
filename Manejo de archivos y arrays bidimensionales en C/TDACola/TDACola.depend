@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581378559 source:c:\users\leone\onedrive\escritorio\practicaprogra\tdacola\tdacola.c
+	"TDACola.h"
+
+1581378459 c:\users\leone\onedrive\escritorio\practicaprogra\tdacola\tdacola.h
+	<stdio.h>
+	<stdlib.h>
+
+1581378537 source:c:\users\leone\onedrive\escritorio\practicaprogra\tdacola\main.c
+	"TDACola.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581639947 source:c:\users\leone\onedrive\escritorio\practicaprogra\matrices\matrices.c
+	"Matrices.h"
+
+1581639913 c:\users\leone\onedrive\escritorio\practicaprogra\matrices\matrices.h
+	<stdio.h>
+	<stdlib.h>
+
+1581640000 source:c:\users\leone\onedrive\escritorio\practicaprogra\matrices\main.c
+	"Matrices.h"
+

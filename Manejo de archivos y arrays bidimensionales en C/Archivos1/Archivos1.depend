@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581196206 source:c:\users\leone\onedrive\escritorio\practicaprogra\archivos1\archivos1.c
+	"Archivos1.h"
+
+1581195960 c:\users\leone\onedrive\escritorio\practicaprogra\archivos1\archivos1.h
+	<stdio.h>
+	<stdlib.h>
+
+1581196883 source:c:\users\leone\onedrive\escritorio\practicaprogra\archivos1\main.c
+	"Archivos1.h"
+

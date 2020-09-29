@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1585676488 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdacola\main.c
+	"Cola.h"
+
+1585675189 c:\users\leone\onedrive\escritorio\misprimitivas2020\tdacola\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585676488 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdacola\cola.c
+	"Cola.h"
+
+1585676488 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdacola\cola.c
+	"Cola.h"
+
+1585675189 c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdacola\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1585676488 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdacola\main.c
+	"Cola.h"
+

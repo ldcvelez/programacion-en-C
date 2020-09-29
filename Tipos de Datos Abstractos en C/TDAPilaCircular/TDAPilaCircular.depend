@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593567037 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapilacircular\pilacircular.c
+	"PilaCircular.h"
+
+1593566117 c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapilacircular\pilacircular.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1593566175 source:c:\users\leone\onedrive\escritorio\programacion\c\misprimitivas2020\tdapilacircular\main.c
+	"PilaCircular.h"
+

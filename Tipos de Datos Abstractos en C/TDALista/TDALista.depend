@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585684197 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdalista\lista.c
+	"Lista.h"
+
+1585681545 c:\users\leone\onedrive\escritorio\misprimitivas2020\tdalista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1585684242 source:c:\users\leone\onedrive\escritorio\misprimitivas2020\tdalista\main.c
+	"Lista.h"
+

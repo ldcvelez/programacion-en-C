@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593309706 source:c:\users\leone\onedrive\escritorio\practicaprogra\tdalista\main.c
+	"TDALista.h"
+
+1581292252 c:\users\leone\onedrive\escritorio\practicaprogra\tdalista\tdalista.h
+	<stdio.h>
+	<stdlib.h>
+
+1593309869 source:c:\users\leone\onedrive\escritorio\practicaprogra\tdalista\tdalista.c
+	"TDALista.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581278388 source:c:\users\leone\onedrive\escritorio\practicaprogra\tda\main.c
+	"TDA.h"
+
+1581278388 c:\users\leone\onedrive\escritorio\practicaprogra\tda\tda.h
+	<stdio.h>
+	<stdlib.h>
+
+1581278388 source:c:\users\leone\onedrive\escritorio\practicaprogra\tda\tda.c
+	"TDA.h"
+
